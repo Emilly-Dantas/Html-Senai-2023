@@ -1,0 +1,31 @@
+h1{
+    background-color: rgb(124, 246, 205);
+    text-align: center;
+    animation: myanimation 5s ease-in-out infinite; }
+     @keyframes myanimation2 { 0% { transform: translateX(0); } 50% 
+     { transform: translateX(50px); } 100% { transform: translateX(0); } } 
+    
+ 
+ 
+h3{
+    background-color: rgb(63, 255, 255);
+    text-align: center;
+    animation: myanimation 4s ease-in-out infinite; }
+    @keyframes myanimation2 { 0% { transform: translateX(0); } 50% 
+    { transform: translateX(50px); } 100% { transform: translateX(0); } } 
+    
+    
+
+h2{
+    background-color: rgb(161, 255, 255);
+    text-align: center;
+    animation: myanimation 3s ease-in-out infinite; }
+    @keyframes myanimation2 { 0% { transform: translateX(0); } 50% 
+    { transform: translateX(50px); } 100% { transform: translateX(0); } } 
+
+
+
+img{
+    animation: myanimation 5s ease-in-out infinite; }
+     @keyframes myanimation { 0% { transform: translateX(0); } 50% 
+     { transform: translateX(50px); } 100% { transform: translateX(0); } } 
